@@ -35,7 +35,7 @@ Constraints:
 
   ![image](https://user-images.githubusercontent.com/93152909/139852988-9e7f2cec-1305-4df2-b1af-bdcea0a7b3e9.png)
 
-* main.py：將leetcode.py改寫並補充「Maximum subarray」  
+* main.py：將leetcode.py改寫並補充「Maximum subarray 的元素」  
 
   ![image](https://user-images.githubusercontent.com/93152909/139862612-7294e767-8981-4654-914d-e94b6559fce0.png)
 
