@@ -3,7 +3,7 @@
 `Leetcode.0001`；`Easy`
 ### 簡述
 * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-* You may assume that each input would have exactly one solution, and you may not use the same element twice.
+* You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 * You can return the answer in any order.
 
 
@@ -23,16 +23,16 @@ Example 3
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
-Constraints:
-* 1 <= nums.length <= <img src="https://render.githubusercontent.com/render/math?math=10^5">  
-* <img src="https://render.githubusercontent.com/render/math?math=-10^4"> <= nums[ i ] <= <img src="https://render.githubusercontent.com/render/math?math=10^4">
+Constraints:  
+![image](https://user-images.githubusercontent.com/93152909/156933387-96cc9dba-9e50-4789-9360-43c9ddd0e01e.png)
 
 ### 範例圖
-* `approach1.py`：`Python`；`Dynamic Programming` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
-
-  ![image](https://user-images.githubusercontent.com/93152909/139852988-9e7f2cec-1305-4df2-b1af-bdcea0a7b3e9.png)
+* `approach1.py`：`Python`；`Hash Table`
+  * <img align="middle" src="https://render.githubusercontent.com/render/math?math=Time:O(n)">
+  * <img src="https://render.githubusercontent.com/render/math?math=Space:O(n)">
 
 ### 其他解法
-* `Brute Force` - O(<img src="https://render.githubusercontent.com/render/math?math=n^2">)
-* `Divide and Conquer` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
+* `Brute Force`
+  * <img align="middle" src="https://render.githubusercontent.com/render/math?math=Time:O(n^2)">
+  * <img src="https://render.githubusercontent.com/render/math?math=Space:O(1)">
   
