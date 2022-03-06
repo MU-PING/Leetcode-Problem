@@ -28,11 +28,6 @@ Constraints:
 
 ### 範例圖
 * `approach1.py`：`Python`；`Hash Table`
-  * <img align="middle" src="https://render.githubusercontent.com/render/math?math=Time:O(n)">
-  * <img src="https://render.githubusercontent.com/render/math?math=Space:O(n)">
 
-### 其他解法
-* `Brute Force`
-  * <img align="middle" src="https://render.githubusercontent.com/render/math?math=Time:O(n^2)">
-  * <img src="https://render.githubusercontent.com/render/math?math=Space:O(1)">
+  *  `Time:O(n)` `Space:O(n)`
   
