@@ -2,11 +2,8 @@
 ## 程式簡介
 `Leetcode.0053`；`Easy`
 ### 簡述
-Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
-A subarray is a contiguous part of an array.
-
-* Input：整數陣列
-* Output：最大的連續子陣列之合
+* Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+* A subarray is a contiguous part of an array.
 
 Example 1
 ```
