@@ -25,11 +25,16 @@ Constraints:
 ![image](https://user-images.githubusercontent.com/93152909/156933346-1632d008-ee78-4f08-a619-2108ac2be182.png)
 
 ### 範例圖
-* `approach1.py`：`Python`；`Dynamic Programming` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
+* `approach1.py`：`Python`；`Dynamic Programming`
+  *  `Time:O(n)` `Space:O(n)`
 
   ![image](https://user-images.githubusercontent.com/93152909/139852988-9e7f2cec-1305-4df2-b1af-bdcea0a7b3e9.png)
 
 ### 其他解法
-* `Brute Force` - O(<img src="https://render.githubusercontent.com/render/math?math=n^2">)
-* `Divide and Conquer` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
+* `Brute Force`
+
+  * `Time:O(n^2)` `Space:O(1)`
   
+* `Divide and Conquer`
+
+  * `Time:O(n)` `Space:O(n)`
