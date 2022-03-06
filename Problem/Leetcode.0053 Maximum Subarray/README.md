@@ -26,8 +26,8 @@ Output: 23
 ```
 Constraints:
 
-1 <= nums.length <= <img src="https://render.githubusercontent.com/render/math?math=10^5">  
-<img src="https://render.githubusercontent.com/render/math?math=-10^4"> <= nums[ i ] <= <img src="https://render.githubusercontent.com/render/math?math=10^4">
+<img src="https://render.githubusercontent.com/render/math?math=1<=">   nums.length  <img src="https://render.githubusercontent.com/render/math?math=<=10^5">  
+<img src="https://render.githubusercontent.com/render/math?math=-10^4<="> nums[ i ] <img src="https://render.githubusercontent.com/render/math?math=<=10^4">
 
 ### 範例圖
 * `approach1.py`：`Python`；`Dynamic Programming` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
