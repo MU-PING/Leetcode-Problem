@@ -30,11 +30,3 @@ Constraints:
 
   ![image](https://user-images.githubusercontent.com/93152909/139852988-9e7f2cec-1305-4df2-b1af-bdcea0a7b3e9.png)
 
-### 其他解法
-* `Brute Force`
-
-  * `Time:O(n^2)` `Space:O(1)`
-  
-* `Divide and Conquer`
-
-  * `Time:O(n)` `Space:O(n)`
