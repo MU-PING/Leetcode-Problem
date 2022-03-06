@@ -21,10 +21,8 @@ Example 3
 Input: nums = [5,4,-1,7,8]
 Output: 23
 ```
-Constraints:
-
-<img src="https://render.githubusercontent.com/render/math?math=1<=">   nums.length  <img src="https://render.githubusercontent.com/render/math?math=<=10^5">  
-<img src="https://render.githubusercontent.com/render/math?math=-10^4<="> nums[ i ] <img src="https://render.githubusercontent.com/render/math?math=<=10^4">
+Constraints:  
+![image](https://user-images.githubusercontent.com/93152909/156933346-1632d008-ee78-4f08-a619-2108ac2be182.png)
 
 ### 範例圖
 * `approach1.py`：`Python`；`Dynamic Programming` - O(<img src="https://render.githubusercontent.com/render/math?math=n">)
