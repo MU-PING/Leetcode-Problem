@@ -1,4 +1,4 @@
-# Leetcode.53 Maximum Subarray
+# Leetcode.0053 Maximum Subarray
 ## 程式簡介
 ### 簡述
 > [Leetcode-53題](https://leetcode.com/problems/maximum-subarray/)，使用 Dynamic Programming 技術實作
