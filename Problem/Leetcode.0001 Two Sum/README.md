@@ -28,6 +28,7 @@ Constraints:
 
 ### 範例圖
 * `approach1.py`：`Python`；`Hash Table`
-
   *  `Time:O(n)` `Space:O(n)`
   
+  ![image](https://user-images.githubusercontent.com/93152909/157088797-df0dfc5b-573a-4483-aca9-b554f71cc201.png)
+
