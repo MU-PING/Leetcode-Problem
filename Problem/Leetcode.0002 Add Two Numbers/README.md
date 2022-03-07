@@ -7,7 +7,10 @@
 * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 
-Example 1
+Example 1  
+
+![image](https://user-images.githubusercontent.com/93152909/157114286-c271177e-fcfd-4d44-b6ef-3df7febc9268.png)
+
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
 Output: [7,0,8]
@@ -29,6 +32,7 @@ Constraints:
 ### 範例圖
 * `approach1.py`：`Python`；`Elementary Math`
   *  `Time:O(max(n,m))` `Space:O(max(n,m))`
+  *  `n: len(l1)` `m: len(l2)` 
   
   ![image](https://user-images.githubusercontent.com/93152909/157111335-bc3400b3-e848-4c14-a80b-1b17229db905.png)
 
