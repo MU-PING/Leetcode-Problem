@@ -24,11 +24,11 @@ Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 Output: [8,9,9,9,0,0,0,1]
 ```
 Constraints:  
-![image](https://user-images.githubusercontent.com/93152909/156933387-96cc9dba-9e50-4789-9360-43c9ddd0e01e.png)
+![image](https://user-images.githubusercontent.com/93152909/157110902-4b65a7f6-69b4-4134-b203-dc30fbbf6a71.png)
 
 ### 範例圖
 * `approach1.py`：`Python`；`Elementary Math`
-  *  `Time:O(n)` `Space:O(n)`
+  *  `Time:O(max(n,m))` `Space:O(max(n,m))`
   
-  ![image](https://user-images.githubusercontent.com/93152909/157088797-df0dfc5b-573a-4483-aca9-b554f71cc201.png)
+  ![image](https://user-images.githubusercontent.com/93152909/157111335-bc3400b3-e848-4c14-a80b-1b17229db905.png)
 
