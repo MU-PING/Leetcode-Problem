@@ -25,11 +25,10 @@ Explanation: The answer is "wke", with the length of 3.
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 ```
 Constraints:  
-![image](https://user-images.githubusercontent.com/93152909/156933387-96cc9dba-9e50-4789-9360-43c9ddd0e01e.png)
+![image](https://user-images.githubusercontent.com/93152909/157143914-8875681f-0590-47f6-8d16-6384ef60294a.png)
 
 ### 範例圖
 * `approach1.py`：`Python`；`Hash Table`
   *  `Time:O(n)` `Space:O(n)`
-  
-  ![image](https://user-images.githubusercontent.com/93152909/157088797-df0dfc5b-573a-4483-aca9-b554f71cc201.png)
+
 
