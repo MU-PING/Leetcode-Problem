@@ -28,7 +28,10 @@ Constraints:
 ![image](https://user-images.githubusercontent.com/93152909/157143914-8875681f-0590-47f6-8d16-6384ef60294a.png)
 
 ### 範例圖
-* `approach1.py`：`Python`；`Hash Table`
-  *  `Time:O(n)` `Space:O(n)`
+* `approach1.py`：`Python`；`Sliding Window`
+  *  `Time:O(2n)` `Space:O(min(n,m))`
+  *  `n: input n` `m: the size of the charset/alphabet m` 
+  
+  ![image](https://user-images.githubusercontent.com/93152909/158077424-87e381c5-48cb-4b9c-aab8-35ebd01e0e77.png)
 
 
