@@ -26,7 +26,7 @@ Constraints:
 ### 範例圖
 * `approach1.py`：`Python`；`Binary Search`
   *  `Time: O(min(log m, log n))` `Space:O(1)`
-  *  `n: len(nums1 )` `m: len(nums2)`
+  *  `n: len(nums1)` `m: len(nums2)`
 
   
   ![image](https://user-images.githubusercontent.com/93152909/158287945-9cc42d36-02c5-4b06-856f-82efef38be88.png)
