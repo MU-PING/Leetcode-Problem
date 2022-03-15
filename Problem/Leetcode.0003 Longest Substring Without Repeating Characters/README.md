@@ -29,8 +29,8 @@ Constraints:
 
 ### 範例圖
 * `approach1.py`：`Python`；`Sliding Window`
-  *  `Time:O(2n)` `Space:O(min(n,m))`
-  *  `n: input n` `m: the size of the charset/alphabet m` 
+  *  `Time:O(2n)` `Space:O(m)`
+  *  `m: the size of the charset/alphabet m` 
   
   ![image](https://user-images.githubusercontent.com/93152909/158289339-60841732-89a1-4323-8706-c4724a746da6.png)
 
