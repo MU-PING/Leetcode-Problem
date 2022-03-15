@@ -1,37 +1,34 @@
-# Leetcode.0003 Longest Substring Without Repeating Characters
+# Leetcode.0004 Median of Two Sorted Arrays
 ## 程式簡介
-`Leetcode.0003`；`Medium`
+`Leetcode.0004`；`Hard`
 ### 簡述
-* Given a string s, find the length of the longest substring without repeating characters.
+* Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays.
+
+* The overall run time complexity should be `O(log (m+n))`.
 
 
 Example 1
 ```
-Input: s = "abcabcbb"
-Output: 3
-Explanation: The answer is "abc", with the length of 3.
+Input: nums1 = [1,3], nums2 = [2]
+Output: 2.00000
+Explanation: merged array = [1,2,3] and median is 2.
 ```
 Example 2
 ```
-Input: s = "bbbbb"
-Output: 1
-Explanation: The answer is "b", with the length of 1.
+Input: nums1 = [1,2], nums2 = [3,4]
+Output: 2.50000
+Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 ```
-Example 3
-```
-Input: s = "pwwkew"
-Output: 3
-Explanation: The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
-```
+
 Constraints:  
-![image](https://user-images.githubusercontent.com/93152909/157143914-8875681f-0590-47f6-8d16-6384ef60294a.png)
+![image](https://user-images.githubusercontent.com/93152909/158287422-11f29871-e069-4a9c-85d0-3a283bbbcb53.png)
 
 ### 範例圖
-* `approach1.py`：`Python`；`Sliding Window`
-  *  `Time:O(2n)` `Space:O(min(n,m))`
-  *  `n: input n` `m: the size of the charset/alphabet m` 
+* `approach1.py`：`Python`；`Binary Search`
+  *  `Time: O(min(log m, log n))` `Space:O(1)`
+  *  `n: len(nums1 )` `m: len(nums2)`
+
   
-  ![image](https://user-images.githubusercontent.com/93152909/158077424-87e381c5-48cb-4b9c-aab8-35ebd01e0e77.png)
+  ![image](https://user-images.githubusercontent.com/93152909/158287945-9cc42d36-02c5-4b06-856f-82efef38be88.png)
 
 
