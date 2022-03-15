@@ -32,5 +32,5 @@ Constraints:
   *  `Time:O(2n)` `Space:O(m)`
   *  `m: the size of the charset/alphabet` 
   
-  ![image](https://user-images.githubusercontent.com/93152909/158290220-f95d4fc1-c5d4-4794-8e41-1eb619714ccf.png)
+  ![image](https://user-images.githubusercontent.com/93152909/158290393-f8ee52cf-0308-4aa6-bb4c-510bd67e36e7.png)
 
