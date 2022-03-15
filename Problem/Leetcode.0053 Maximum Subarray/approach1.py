@@ -1,13 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  2 21:09:08 2021
-
-@author: Mu-Ping
-"""
-
 class Solution(object):
-    
     def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         
         l = len(nums)
         if l == 0: return 0
