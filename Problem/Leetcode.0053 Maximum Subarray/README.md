@@ -28,5 +28,5 @@ Constraints:
 * `approach1.py`：`Python`；`Dynamic Programming`
   *  `Time:O(n)` `Space:O(n)`
 
-  ![image](https://user-images.githubusercontent.com/93152909/139852988-9e7f2cec-1305-4df2-b1af-bdcea0a7b3e9.png)
+  ![image](https://user-images.githubusercontent.com/93152909/158290610-362fb145-5bdf-4e04-91d8-652729569b9d.png)
 
