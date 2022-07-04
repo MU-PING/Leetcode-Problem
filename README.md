@@ -5,7 +5,9 @@
  
 1. `Leetcode.0001` Two Sum - `Easy`  
 2. `Leetcode.0002` Add Two Numbers - `Medium`
-3. `Leetcode.0053` Maximum Subarray - `Medium`
+3. `Leetcode.0003` Longest Substring Without Repeating Characters - `Medium`
+4. `Leetcode.0004` Median of Two Sorted Arrays - `Hard`
+5. `Leetcode.0053` Maximum Subarray - `Medium`
 
 
 
