@@ -30,7 +30,7 @@ Constraints:
 ![image](https://user-images.githubusercontent.com/93152909/157110902-4b65a7f6-69b4-4134-b203-dc30fbbf6a71.png)
 
 ### 範例圖
-* `approach1.py`：`Python`；`Elementary Math`
+* `approach1.py`：`Python`；`Elementary Math`、`Linked List`
   *  `Time:O(max(n,m))` `Space:O(max(n,m))`
   *  `n: len(l1)` `m: len(l2)` 
   
