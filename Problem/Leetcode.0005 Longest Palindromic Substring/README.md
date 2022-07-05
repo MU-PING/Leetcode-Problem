@@ -34,4 +34,6 @@ Constraints:
   
     <img src="https://user-images.githubusercontent.com/93152909/177419179-4b7a95bf-f8e6-4460-9af1-a9182360df32.png" alt="Girl in a jacket" width="600">
 
-  * 備註： 當測資過大時可能會 `Time Limit Exceeded`，推測是table的建立太耗時間。。
+  * 備註： 
+    * 當測資過大時可能會 `Time Limit Exceeded` ，推測是table的建立太耗時間。。
+    * 存在 `Worst Time:O(n)` 的解法： `Manacher's Algorithm`
