@@ -31,7 +31,7 @@ Constraints:
 
 ### 範例圖
 * `approach1.py`：`Python`；`Elementary Math`、`Linked List`
-  *  `Time:O(max(n,m))` `Space:O(max(n,m))`
+  *  `Worst Time:O(max(n,m))` `Space:O(max(n,m))`
   *  `n: len(l1)` `m: len(l2)` 
   
   ![image](https://user-images.githubusercontent.com/93152909/157111335-bc3400b3-e848-4c14-a80b-1b17229db905.png)
