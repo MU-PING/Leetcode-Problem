@@ -32,3 +32,4 @@ class Solution(object):
                 if ((len1 + len2) % 2 == 0):
                     return (max(l1, l2) + min(r1, r2)) / 2.0
                 return max(l1, l2)
+        return -1
