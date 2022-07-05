@@ -29,7 +29,7 @@ Constraints:
 
 ### 範例圖
 * `approach1.py`：`Python`；`Sliding Window`
-  *  `Time:O(2n)` `Space:O(m)`
+  *  `Worst Time:O(2n)` `Space:O(m)`
   *  `m: the size of the charset/alphabet` 
   
   ![image](https://user-images.githubusercontent.com/93152909/158290393-f8ee52cf-0308-4aa6-bb4c-510bd67e36e7.png)
